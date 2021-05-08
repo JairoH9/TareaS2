@@ -1,0 +1,3 @@
+﻿  TareaS2.cpp
+C:\Users\UNE VISION\source\repos\TareaS2\TareaS2\TareaS2.cpp(9,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  TareaS2.vcxproj -> C:\Users\UNE VISION\source\repos\TareaS2\Debug\TareaS2.exe
